@@ -7,6 +7,7 @@
     "python >=3.8,<3.9.0a0"
   ],
   "extracted_package_dir": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\setuptools-68.2.2-py38haa95532_0",
+  "features": "",
   "files": [
     "Lib/site-packages/_distutils_hack/__init__.py",
     "Lib/site-packages/_distutils_hack/__pycache__/__init__.cpython-38.pyc",
@@ -467,14 +468,17 @@
     ".nonadmin"
   ],
   "fn": "setuptools-68.2.2-py38haa95532_0.conda",
+  "legacy_bz2_md5": "f8164714a96ecb2f13cf78e07c35da0c",
+  "legacy_bz2_size": 1092248,
   "license": "MIT",
+  "license_family": "MIT",
   "link": {
     "source": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\setuptools-68.2.2-py38haa95532_0",
     "type": 1
   },
   "md5": "ab3a14de23fd85f6a1e95d73cfe75b03",
   "name": "setuptools",
-  "package_tarball_full_path": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\setuptools-68.2.2-py38haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\setuptools-68.2.2-py38haa95532_0",
   "paths_data": {
     "paths": [
       {
@@ -3672,11 +3676,12 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "setuptools",
   "sha256": "14bc7853a81ecfa7e5163d89fa5aa8a575f84a094b38117f75df734498ef8ebc",
   "size": 955652,
   "subdir": "win-64",
-  "timestamp": 1702328149000,
+  "timestamp": 1702328149114,
+  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/setuptools-68.2.2-py38haa95532_0.conda",
   "version": "68.2.2"
 }

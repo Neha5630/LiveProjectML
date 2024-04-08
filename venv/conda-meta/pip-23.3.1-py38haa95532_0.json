@@ -9,6 +9,7 @@
     "wheel"
   ],
   "extracted_package_dir": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\pip-23.3.1-py38haa95532_0",
+  "features": "",
   "files": [
     "Lib/site-packages/pip-23.3.1-py3.8.egg-info/PKG-INFO",
     "Lib/site-packages/pip-23.3.1-py3.8.egg-info/SOURCES.txt",
@@ -1022,14 +1023,17 @@
     ".nonadmin"
   ],
   "fn": "pip-23.3.1-py38haa95532_0.conda",
+  "legacy_bz2_md5": "58bacbd8296323b8f3ac8d87fc361d52",
+  "legacy_bz2_size": 2978132,
   "license": "MIT",
+  "license_family": "MIT",
   "link": {
     "source": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\pip-23.3.1-py38haa95532_0",
     "type": 1
   },
   "md5": "9b2518e337f48cc16ff1d8a75fe7cd08",
   "name": "pip",
-  "package_tarball_full_path": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\pip-23.3.1-py38haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\pip-23.3.1-py38haa95532_0",
   "paths_data": {
     "paths": [
       {
@@ -8098,11 +8102,12 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "ef29f1da90961b5e4aa67af7396d651cf5d203fa0d105edad8def29bfedf1b25",
   "size": 2964554,
   "subdir": "win-64",
-  "timestamp": 1700668059000,
+  "timestamp": 1700668059384,
+  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/pip-23.3.1-py38haa95532_0.conda",
   "version": "23.3.1"
 }

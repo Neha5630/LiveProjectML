@@ -8,6 +8,7 @@
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
   "extracted_package_dir": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\sqlite-3.41.2-h2bbff1b_0",
+  "features": "",
   "files": [
     "Library/bin/sqlite3.dll",
     "Library/bin/sqlite3.exe",
@@ -17,14 +18,17 @@
     ".nonadmin"
   ],
   "fn": "sqlite-3.41.2-h2bbff1b_0.conda",
+  "legacy_bz2_md5": "32f95c4ef7dfbf22fd35292ff8bd51a5",
+  "legacy_bz2_size": 1311308,
   "license": "blessing",
+  "license_family": "Other",
   "link": {
     "source": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\sqlite-3.41.2-h2bbff1b_0",
     "type": 1
   },
   "md5": "eefb61a5b27aeb8c00f642290fd3375f",
   "name": "sqlite",
-  "package_tarball_full_path": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\sqlite-3.41.2-h2bbff1b_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Dell\\Downloads\\New folder\\pkgs\\sqlite-3.41.2-h2bbff1b_0",
   "paths_data": {
     "paths": [
       {
@@ -65,11 +69,12 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "sqlite",
   "sha256": "c57645efa4272ad1563a8a5e2e52c5d89f470d59dfc28b55ccb5db67250ad293",
   "size": 915400,
   "subdir": "win-64",
-  "timestamp": 1681402905000,
+  "timestamp": 1681402905668,
+  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.41.2-h2bbff1b_0.conda",
   "version": "3.41.2"
 }
