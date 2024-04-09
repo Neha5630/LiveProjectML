@@ -1,6 +1,8 @@
 pandas
 numpy
 Flask
+typing
 Scikit-learn
 seaborn
+pickles
 -e .
