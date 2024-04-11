@@ -1,0 +1,23 @@
+[2024-04-11 11:52:30,377] 22 root - INFO - Data ingestion has started
+[2024-04-11 11:52:30,952] 25 root - INFO - Dataset has been read
+[2024-04-11 11:52:36,300] 29 root - INFO -  Train test split started
+[2024-04-11 11:52:41,077] 34 root - INFO - Ingestion of data has been completed
+[2024-04-11 11:52:41,632] 77 root - INFO - Read train and test data completed
+[2024-04-11 11:52:41,651] 78 root - INFO - Train Dataframe Head : 
+   138850  0.57      Ideal  E  SI1  59.6  57.0  5.48  5.44  3.25  1776
+0  153006  1.00    Premium  D  SI1  61.5  58.0  6.47  6.42  3.96  5842
+1  160724  0.33      Ideal  G  VS1  61.8  55.0  4.47  4.49  2.78   854
+2  143165  1.00  Very Good  D  VS2  59.8  61.0  6.49  6.54  3.89  6373
+3   30716  0.31    Premium  G  VS2  62.2  58.0  4.35  4.28  2.69   698
+4  142715  0.50      Ideal  H  VS2  62.1  58.0  5.04  5.08  3.14  1266
+[2024-04-11 11:52:41,668] 79 root - INFO - Test Dataframe Head  : 
+   124816  0.41    Premium  D  VS2  62.5  58.0  4.71  4.73  2.95    931
+0  108621  1.01  Very Good  H  VS2  63.4  59.0  6.31  6.21  3.97   4637
+1  141921  1.52  Very Good  F  VS2  62.6  53.3  7.31  7.42  4.61  15649
+2   68212  0.32      Ideal  H  SI2  62.4  56.0  4.34  4.38  2.72    420
+3  106490  0.76    Premium  F  SI1  59.0  60.0  6.08  5.96  3.54   2808
+4   58011  0.31      Ideal  H  SI1  62.2  56.0  4.36  4.38  2.72    558
+[2024-04-11 11:52:41,668] 81 root - INFO - Obtaining preprocessing object
+[2024-04-11 11:52:41,668] 26 root - INFO - Data Transformation initiated
+[2024-04-11 11:52:41,669] 36 root - INFO - Pipeline Initiated
+[2024-04-11 11:52:41,669] 119 root - INFO - Exception occured in the initiate_datatransformation

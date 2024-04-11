@@ -1,0 +1,8 @@
+[2024-04-11 11:47:02,934] 22 root - INFO - Data ingestion has started
+[2024-04-11 11:47:03,715] 25 root - INFO - Dataset has been read
+[2024-04-11 11:47:08,516] 29 root - INFO -  Train test split started
+[2024-04-11 11:47:13,620] 34 root - INFO - Ingestion of data has been completed
+[2024-04-11 11:47:14,289] 78 root - INFO - Obtaining the preprocessing object
+[2024-04-11 11:47:14,291] 28 root - INFO - Data Transformation has been initiated
+[2024-04-11 11:47:14,291] 38 root - INFO - Pipeline Initiated
+[2024-04-11 11:47:14,291] 104 root - INFO - Error occured in initiate data transformation function

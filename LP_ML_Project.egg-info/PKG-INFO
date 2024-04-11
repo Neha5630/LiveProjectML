@@ -7,5 +7,7 @@ Author-email: nehay5630@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: Flask
+Requires-Dist: typing
 Requires-Dist: Scikit-learn
 Requires-Dist: seaborn
+Requires-Dist: pickles
