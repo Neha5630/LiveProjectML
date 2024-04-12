@@ -6,7 +6,7 @@ conda create -p venv python==3.8
 ```
 step2:create a.gitignore file
 ```
-create the file by right click and include the venc in it
+create the file by right click and include the venv in it
 ```
 
 step 3: Create a requiremenet.txt file
