@@ -1,0 +1,8 @@
+[2024-04-12 09:38:40,712] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-04-12 09:38:40,725] 96 werkzeug - INFO -  * Debugger PIN: 975-960-240
+[2024-04-12 09:38:49,393] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 09:38:49] "GET / HTTP/1.1" 200 -
+[2024-04-12 09:38:50,187] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 09:38:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-04-12 09:38:52,775] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 09:38:52] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 09:39:09,348] 62 root - INFO - Dataframe created
+[2024-04-12 09:39:10,171] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 09:39:10] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 10:55:21,328] 96 werkzeug - INFO -  * Detected change in 'c:\\thirdeye_data\\pipeline_project\\src\\logger.py', reloading

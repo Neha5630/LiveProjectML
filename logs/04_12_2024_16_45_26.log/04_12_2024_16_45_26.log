@@ -1,0 +1,12 @@
+[2024-04-12 16:45:28,632] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-04-12 16:45:28,641] 96 werkzeug - INFO -  * Debugger PIN: 975-960-240
+[2024-04-12 16:45:33,443] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:45:33] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:45:38,291] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:45:38] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:46:07,413] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:46:07] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:46:30,710] 62 root - INFO - Dataframe created
+[2024-04-12 16:46:30,903] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:46:30] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:47:20,769] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:47:20] "GET / HTTP/1.1" 200 -
+[2024-04-12 17:02:43,691] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 17:02:43] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 17:03:06,335] 62 root - INFO - Dataframe created
+[2024-04-12 17:03:06,363] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 17:03:06] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 17:04:22,574] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 17:04:22] "GET / HTTP/1.1" 200 -

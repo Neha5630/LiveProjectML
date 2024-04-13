@@ -1,0 +1,157 @@
+[2024-04-12 13:02:46,122] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-04-12 13:02:46,138] 96 werkzeug - INFO -  * Debugger PIN: 975-960-240
+[2024-04-12 13:02:55,106] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:02:55] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:03:04,439] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:03:04] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-04-12 13:03:16,666] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:03:16] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:03:21,687] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:03:21] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 13:03:29,480] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:03:29] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-04-12 13:03:35,002] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:03:35] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:06:08,401] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-04-12 13:06:08,481] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:08,519] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:08,650] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:08,753] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:09,659] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-04-12 13:06:09,701] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:09,736] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:09,793] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:09,950] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:10,367] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-04-12 13:06:10,405] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:10,416] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:10,472] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:10,651] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:06:32,608] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:32] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:06:42,986] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:06:42] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-04-12 13:07:55,020] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:07:55] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-04-12 13:08:00,391] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:08:00] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:09:16,999] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:09:16] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:09:17,034] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:09:17] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:28:14,616] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:14] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:28:14,682] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:14] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:28:16,308] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:16] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:28:16,342] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:16] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:28:17,375] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:17] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:28:17,396] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:17] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:28:30,555] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:30] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:28:30,647] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:28:30] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:29:44,081] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:29:44] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:29:44,135] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:29:44] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:30:08,834] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:30:08] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:30:08,858] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:30:08] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:30:45,150] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:30:45] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:30:45,248] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:30:45] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:36:21,352] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:36:21] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:36:21,465] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:36:21] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:36:22,903] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:36:22] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:36:23,025] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:36:23] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:36:25,335] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:36:25] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 13:36:45,092] 62 root - INFO - Dataframe created
+[2024-04-12 13:36:47,359] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:36:47] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 13:43:27,427] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:27] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:43:27,487] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:27] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:43:33,725] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:33] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 13:43:40,526] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 13:43:40,647] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:40,680] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:40,897] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:41,076] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:41] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:45,751] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 13:43:45,818] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:45] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:45,884] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:45] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:46,089] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:43:46,215] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:43:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:44:12,432] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:44:12] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:44:12,663] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:44:12] "[33mGET /diamond.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:50:17,190] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:50:17] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:50:17,230] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:50:17] "[33mGET /diamond-stone.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:50:19,758] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:50:19] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:50:19,811] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:50:19] "[33mGET /diamond-stone.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:50:20,455] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:50:20] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:50:20,516] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:50:20] "[33mGET /diamond-stone.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 13:52:43,501] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:43] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:52:45,303] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:45] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:52:45,541] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:45] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:52:46,600] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:46] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:52:47,352] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:47] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:52:47,605] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:47] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:52:54,623] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:52:54] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:57:27,595] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:27] "GET / HTTP/1.1" 200 -
+[2024-04-12 13:57:31,884] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:31] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[2024-04-12 13:57:34,199] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:34] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[2024-04-12 13:57:34,267] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:57:34,280] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:57:34,441] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:57:36,697] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:36] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[2024-04-12 13:57:36,769] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-04-12 13:57:36,773] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-04-12 13:57:36,841] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:57:36,988] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:57:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-04-12 13:58:02,814] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:58:02] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 13:58:23,782] 62 root - INFO - Dataframe created
+[2024-04-12 13:58:23,836] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 13:58:23] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:00:55,132] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:00:55] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:00:57,883] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:00:57] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-04-12 14:01:15,915] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:01:15] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:01:37,088] 62 root - INFO - Dataframe created
+[2024-04-12 14:01:37,134] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:01:37] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:11,911] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:11,970] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:11] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:15,870] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:15,925] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:15] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:21,377] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:21,436] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:21] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:24,366] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:24,415] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:24] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:30,622] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:30,680] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:30] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:31,629] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:31,673] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:31] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:34,218] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:34,269] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:34] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:37,527] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:37,577] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:37] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:02:49,742] 62 root - INFO - Dataframe created
+[2024-04-12 14:02:49,797] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:02:49] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:07:11,780] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:07:11] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:07:32,642] 62 root - INFO - Dataframe created
+[2024-04-12 14:07:32,682] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:07:32] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:10:22,524] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:22] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:10:24,951] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:24] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:10:29,203] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:10:30,301] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:10:32,089] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:32] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:10:33,309] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:33] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:10:50,316] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:10:50] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:11:05,669] 62 root - INFO - Dataframe created
+[2024-04-12 14:11:05,708] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:11:05] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 14:11:15,005] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:11:15] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:13:20,872] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:13:20] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:13:24,628] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:13:24] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-04-12 14:13:31,418] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:13:31] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:15:09,767] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:15:09] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:16:22,738] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:16:22] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:16:25,020] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:16:25] "[33mGET /price HTTP/1.1[0m" 404 -
+[2024-04-12 14:16:38,158] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:16:38] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:17:04,566] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:17:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:17:20,277] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:17:20] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:21:48,083] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:21:48] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:22:54,383] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:22:54] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:25:39,610] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:25:39] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:29:18,632] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:18] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:29:18,717] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:29:52,779] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:52] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:29:52,832] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:29:54,125] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:54] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:29:54,160] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:29:57,203] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:57] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:29:57,280] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:29:58,480] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:58] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:29:58,623] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:29:58] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:30:04,218] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:30:04] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:30:11,049] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:30:11] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:32:00,807] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:32:00] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:32:00,861] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:32:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:32:03,056] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:32:03] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:32:09,257] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:32:09] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:32:09,312] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:32:09] "[33mGET /style.css HTTP/1.1[0m" 404 -

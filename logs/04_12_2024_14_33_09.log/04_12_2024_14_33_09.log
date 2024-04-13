@@ -1,0 +1,49 @@
+[2024-04-12 14:33:17,342] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-04-12 14:33:17,362] 96 werkzeug - INFO -  * Debugger PIN: 975-960-240
+[2024-04-12 14:33:19,018] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:19] "GET / HTTP/1.1" 200 -
+[2024-04-12 14:33:19,064] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2024-04-12 14:33:23,192] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:23] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:33:39,434] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:39,980] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:40,135] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:40,297] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:41,186] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:41,343] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:41] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:42,049] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:42,136] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:42] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:43,660] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:43,770] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:43] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:45,617] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:45,758] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:45,944] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:46,084] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:46,448] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:46,566] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:47,816] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:47,895] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:49,181] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:49,283] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:33:49,460] 62 root - INFO - Dataframe created
+[2024-04-12 14:33:49,598] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:33:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:34:45,588] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:34:45] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:35:01,804] 62 root - INFO - Dataframe created
+[2024-04-12 14:35:01,902] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:35:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:35:02,662] 62 root - INFO - Dataframe created
+[2024-04-12 14:35:02,773] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:35:02] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:35:04,210] 62 root - INFO - Dataframe created
+[2024-04-12 14:35:04,327] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:35:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:35:06,125] 62 root - INFO - Dataframe created
+[2024-04-12 14:35:06,227] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:35:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:35:07,009] 62 root - INFO - Dataframe created
+[2024-04-12 14:35:07,131] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:35:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:35:09,808] 62 root - INFO - Dataframe created
+[2024-04-12 14:35:09,926] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:35:09] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:36:27,177] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:36:27] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 14:36:38,020] 62 root - INFO - Dataframe created
+[2024-04-12 14:36:38,099] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:36:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:36:40,014] 62 root - INFO - Dataframe created
+[2024-04-12 14:36:40,082] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:36:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:36:40,862] 62 root - INFO - Dataframe created
+[2024-04-12 14:36:40,954] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:36:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 14:36:41,352] 62 root - INFO - Dataframe created
+[2024-04-12 14:36:41,447] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 14:36:41] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -

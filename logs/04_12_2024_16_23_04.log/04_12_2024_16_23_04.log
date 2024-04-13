@@ -1,0 +1,43 @@
+[2024-04-12 16:23:06,630] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-04-12 16:23:06,647] 96 werkzeug - INFO -  * Debugger PIN: 975-960-240
+[2024-04-12 16:23:10,544] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:23:10] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:23:19,739] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:23:19] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:23:19,801] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:23:19] "[33mGET /path/to/your/background-image.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 16:23:30,966] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:23:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 16:24:04,444] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:24:04] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:24:37,350] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:24:37] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:24:38,936] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:24:38] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:27:02,372] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:27:02] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:28:27,708] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:28:27] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:29:03,704] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:29:03] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:30:39,332] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:30:39] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:30:44,097] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:30:44] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:30:44,174] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:30:44] "[33mGET /path/to/your/background-image.jpg HTTP/1.1[0m" 404 -
+[2024-04-12 16:31:08,530] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:09,257] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:09] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:09,403] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:09,421] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:09] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:21,773] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:21,798] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:21] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:28,471] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:28,487] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:28] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:29,340] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:29,353] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:29] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:32,254] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:32,288] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:32] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:35,458] 62 root - INFO - Dataframe created
+[2024-04-12 16:31:35,485] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:35] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:31:47,893] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:31:47] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:32:34,949] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:32:34] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:32:59,033] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:32:59] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:36:46,269] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:36:46] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:37:33,607] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:37:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-04-12 16:40:05,586] 62 root - INFO - Dataframe created
+[2024-04-12 16:40:05,600] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:40:05] "POST /predict HTTP/1.1" 200 -
+[2024-04-12 16:42:19,099] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:42:19] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:43:05,394] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:43:05] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:44:00,474] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:44:00] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:44:11,800] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:44:11] "GET / HTTP/1.1" 200 -
+[2024-04-12 16:44:26,830] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:44:26] "GET /predict HTTP/1.1" 200 -
+[2024-04-12 16:44:47,103] 62 root - INFO - Dataframe created
+[2024-04-12 16:44:47,130] 96 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 16:44:47] "POST /predict HTTP/1.1" 200 -
