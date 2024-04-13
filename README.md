@@ -4,7 +4,7 @@ step1: create a virtual environment
 ```
 conda create -p venv python==3.8
 ```
-step2:create a.gitignore file
+step2:create a .gitignore file
 ```
 create the file by right click and include the venv in it
 ```
