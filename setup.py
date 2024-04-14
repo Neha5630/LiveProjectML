@@ -20,6 +20,5 @@ setup(
     description='An end-to-end ML pipeline project about Diamond price prediction',
     author_email="nehay5630@gmail.com",
     install_requires=get_requirements("requirements.txt"),
-    packages=find_packages()
-    
+    packages=find_packages()  
 )
