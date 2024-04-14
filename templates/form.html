@@ -1,90 +1,129 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diamond Price Prediction Form</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-image: url('https://media.istockphoto.com/id/1988749982/photo/diamonds-standing-on-black-gradient-background.jpg?s=612x612&w=0&k=20&c=hzgBEC-1Wb2xSHZq8MY5eRNjOh8LBDkFP8G5uZ10VDM=');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
             margin: 0;
             padding: 0;
-            background-image: url('https://media.istockphoto.com/id/1988749982/photo/diamonds-standing-on-black-gradient-background.jpg?s=612x612&w=0&k=20&c=hzgBEC-1Wb2xSHZq8MY5eRNjOh8LBDkFP8G5uZ10VDM='); /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
-            background-size: cover;
-            color: #333;
         }
+
         .container {
             max-width: 600px;
             margin: 50px auto;
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white container */
+            background-color: rgba(255, 255, 255, 0.8);
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            text-align: center;
+            text-align:left;
         }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
         label {
-            display: inline-block;
-            width: 120px;
-            text-align: left;
-            margin-bottom: 10px;
+            font-weight: bold;
+            color: #333;
         }
-        input, select {
-            width: calc(100% - 130px);
-            padding: 8px;
+
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 10px;
             border: 1px solid #ccc;
             border-radius: 4px;
             box-sizing: border-box;
-            margin-bottom: 20px;
         }
+
+        select {
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            background-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.25 8.75L10 12.5L13.75 8.75" stroke="%23666"/></svg>');
+            background-repeat: no-repeat;
+            background-position: right 10px center;
+            background-size: 10px;
+            padding-right: 30px;
+        }
+
         input[type="submit"] {
             background-color: #007bff;
-            color: #fff;
+            color: white;
+            padding: 12px 20px;
             border: none;
             border-radius: 4px;
-            padding: 10px 20px;
             cursor: pointer;
-            transition: background-color 0.3s ease;
+            width: 100%;
+            font-size: 16px;
         }
+
         input[type="submit"]:hover {
             background-color: #0056b3;
         }
-        .result {
-            margin-top: 20px;
-            font-size: 18px;
+
+        h1 {
+            color: #38206b;
+            text-align: center;
+            margin-bottom: 30px;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Diamond Price Prediction Form</h1>
-        <form id="predictionForm" action="" method="POST">
-            <label for="carat">Carat:</label>
-            <input type="text" id="carat" name="carat" placeholder="Enter carat value (float)"><br>
+        <form action="{{url_for('predict_datapoint')}}" method="POST">
+            <div class="form-group">
+                <label for="carat">Carat:</label>
+                <input type="text" id="carat" name="carat" placeholder="Enter carat value (float)">
+            </div>
+
+            <div class="form-group">
+                <label for="depth">Depth:</label>
+                <input type="text" id="depth" name="depth" placeholder="Enter depth value (float)">
+            </div>
+
+            <div class="form-group">
+                <label for="table">Table:</label>
+                <input type="text" id="table" name="table" placeholder="Enter table value (float)">
+            </div>
             
-            <label for="depth">Depth:</label>
-            <input type="text" id="depth" name="depth" placeholder="Enter depth value (float)"><br>
-            
-            <label for="table">Table:</label>
-            <input type="text" id="table" name="table" placeholder="Enter table value (float)"><br>
-            
-            <label for="x">x:</label>
-            <input type="text" id="x" name="x" placeholder="Enter x value (float)"><br>
-            
-            <label for="y">y:</label>
-            <input type="text" id="y" name="y" placeholder="Enter y value (float)"><br>
-            
-            <label for="z">z:</label>
-            <input type="text" id="z" name="z" placeholder="Enter z value (float)"><br>
-            
-            <label for="cut">Cut:</label>
-            <select id="cut" name="cut">
+            <div class="form-group">
+                <label for="x">x:</label>
+                <input type="text" id="x" name="x" placeholder="Enter x value (float)">
+            </div>
+          
+            <div class="form-group">
+                <label for="y">y:</label>
+                <input type="text" id="y" name="y" placeholder="Enter y value (float)">
+            </div>
+          
+            <div class="form-group">
+                <label for="z">z:</label>
+                <input type="text" id="z" name="z" placeholder="Enter z value (float)">
+            </div>         
+        
+            <div class="form-group">
+              <label for="cut">Cut:</label>
+              <select id="cut" name="cut">
                 <option value="Fair">Fair</option>
                 <option value="Good">Good</option>
                 <option value="Very Good">Very Good</option>
                 <option value="Premium">Premium</option>
                 <option value="Ideal">Ideal</option>
-            </select><br>
-            
-            <label for="color">Color:</label>
-            <select id="color" name="color">
+              </select>
+            </div>
+          
+            <div class="form-group">
+              <label for="color">Color:</label>
+              <select id="color" name="color">
                 <option value="D">D</option>
                 <option value="E">E</option>
                 <option value="F">F</option>
@@ -92,10 +131,12 @@
                 <option value="H">H</option>
                 <option value="I">I</option>
                 <option value="J">J</option>
-            </select><br>
-            
-            <label for="clarity">Clarity:</label>
-            <select id="clarity" name="clarity">
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="clarity">Clarity:</label>
+              <select id="clarity" name="clarity">
                 <option value="I1">I1</option>
                 <option value="SI2">SI2</option>
                 <option value="SI1">SI1</option>
@@ -104,28 +145,11 @@
                 <option value="VVS2">VVS2</option>
                 <option value="VVS1">VVS1</option>
                 <option value="IF">IF</option>
-            </select><br>
-            
+              </select>
+            </div>
+
             <input type="submit" value="Submit">
         </form>
-        <div class="result" id="predictionResult"></div>
     </div>
-
-    <script>
-        document.getElementById('predictionForm').addEventListener('submit', function(event) {
-            event.preventDefault(); 
-            var form = this;
-            var formData = new FormData(form);
-            
-            var xhr = new XMLHttpRequest();
-            xhr.onreadystatechange = function() {
-                if (xhr.readyState === 4 && xhr.status === 200) {
-                    document.getElementById('predictionResult').innerHTML = xhr.responseText;
-                }
-            };
-            xhr.open(form.method, form.action, true);
-            xhr.send(formData);
-        });
-    </script>
 </body>
 </html>

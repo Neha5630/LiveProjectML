@@ -34,7 +34,7 @@ def predict_datapoint():
     return render_template("results.html", final_result = results)
 
 if __name__ == "__main__": 
-    app.run(host = "0.0.0.0", debug= False)
+    app.run(host = "0.0.0.0", debug= True)
 
 #http://127.0.0.1:5000/ in browser
 

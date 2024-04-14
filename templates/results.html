@@ -1,2 +1,50 @@
-<h2>The predicted price of the diamond is: {{ final_result }}</h2>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            /* Specify the background image URL */
+            background-image: url('https://media.istockphoto.com/id/1988749982/photo/diamonds-standing-on-black-gradient-background.jpg?s=612x612&w=0&k=20&c=hzgBEC-1Wb2xSHZq8MY5eRNjOh8LBDkFP8G5uZ10VDM=');
+            /* Set background image size and position */
+            background-size: cover;
+            background-position: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .result-container {
+            background-color: rgba(255, 255, 255, 0.8); /* Add opacity to make text readable */
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .result {
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 20px;
+            color: #007bff;
+        }
+        .explanation {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h1>Result</h1>
+        <div class="result">{{final_result}}</div>
+        <p class="explanation">The above value represents the predicted price of the diamond.</p>
+    </div>
+</body>
+</html>
