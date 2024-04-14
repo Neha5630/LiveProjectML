@@ -8,3 +8,5 @@
 [2024-04-14 12:25:12,683] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 12:25:12] "GET /predict HTTP/1.1" 200 -
 [2024-04-14 12:25:32,412] 62 root - INFO - Dataframe created
 [2024-04-14 12:25:33,280] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 12:25:33] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 12:30:52,362] 62 root - INFO - Dataframe created
+[2024-04-14 12:30:52,401] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 12:30:52] "POST /predict HTTP/1.1" 200 -
