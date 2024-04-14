@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template, jsonify
 # Alternatively can use Django, FastAPI, or anything similar
-from src.pipelines.prediction_pipelines import CustomData, PredictPipeline
+from src.pipeline.prediction_pipeline import CustomData, PredictPipeline
 
 application = Flask(__name__)
 app = application
