@@ -20,42 +20,50 @@ class PredictPipeline:
             data_scaled = preprocessor.transform(features)
             pred = model.predict(data_scaled)
             return pred
-        except AttributeError as e: 
-            # Catch specifically the AttributeError related to 'monotonic_cst'
-            logging.error("AttributeError: 'monotonic_cst' not found in model.")
-            raise CustomException("AttributeError: 'monotonic_cst' not found in model.", sys)
         except Exception as e: 
-            logging.error("Error occurred in predict function in prediction_pipeline location")
-            raise CustomException(e, sys)
+            logging.info("Error occured in predict function in prediction_pipeline location")
+            raise CustomException(e,sys)
         
 class CustomData: 
-    def __init__(self, carat:float, depth:float, table:float, x:float, y:float, z:float, cut:str, color:str, clarity:str): 
-        self.carat = carat
-        self.depth = depth
-        self.table = table
-        self.x = x
-        self.y = y 
-        self.z = z
-        self.cut = cut 
-        self.color = color 
-        self.clarity = clarity
+        def __init__(self, carat:float, 
+                     depth:float, 
+                     table:float, 
+                     x:float, 
+                     y:float, 
+                     z:float, 
+                     cut:str, 
+                     color:str, 
+                     clarity:str): 
+             self.carat = carat
+             self.depth = depth
+             self.table = table
+             self.x = x
+             self.y = y 
+             self.z = z
+             self.cut = cut 
+             self.color = color 
+             self.clarity = clarity
         
-    def get_data_as_dataframe(self): 
-        try: 
-            custom_data_input_dict = {
-                'carat': [self.carat], 
-                'depth': [self.depth], 
-                'table': [self.table], 
-                'x': [self.x],
-                'y': [self.y],
-                'z': [self.z], 
-                'cut': [self.cut], 
-                'color': [self.color], 
-                'clarity': [self.clarity]
-            }
-            df = pd.DataFrame(custom_data_input_dict)
-            logging.info("Dataframe created")
-            return df
-        except Exception as e:
-            logging.error("Error occurred in get_data_as_dataframe function in prediction_pipeline")
-            raise CustomException(e, sys) 
+        def get_data_as_dataframe(self): 
+             try: 
+                  custom_data_input_dict = {
+                       'carat': [self.carat], 
+                       'depth': [self.depth], 
+                       'table': [self.table], 
+                       'x': [self.x],
+                       'y':[self.y],
+                       'z':[self.z], 
+                       'cut': [self.cut], 
+                       'color': [self.color], 
+                       'clarity': [self.clarity]
+
+                  }
+                  df = pd.DataFrame(custom_data_input_dict)
+                  logging.info("Dataframe created")
+                  return df
+             except Exception as e:
+                  logging.info("Error occured in get_data_as_dataframe function in prediction_pipeline")
+                  raise CustomException(e,sys) 
+             
+             
+        
