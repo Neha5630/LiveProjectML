@@ -1,0 +1,21 @@
+[2024-04-14 20:37:18,369] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-04-14 20:37:18,380] 96 werkzeug - INFO -  * Debugger PIN: 975-960-240
+[2024-04-14 20:37:20,798] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:37:20] "GET / HTTP/1.1" 200 -
+[2024-04-14 20:37:21,231] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:37:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-04-14 20:37:23,368] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:37:23] "GET /predict HTTP/1.1" 200 -
+[2024-04-14 20:37:41,799] 62 root - INFO - Dataframe created
+[2024-04-14 20:37:42,717] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:37:42] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 20:37:59,903] 62 root - INFO - Dataframe created
+[2024-04-14 20:37:59,943] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:37:59] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 20:38:05,952] 62 root - INFO - Dataframe created
+[2024-04-14 20:38:05,982] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:38:05] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 20:38:19,919] 62 root - INFO - Dataframe created
+[2024-04-14 20:38:19,977] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:38:19] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 20:38:27,950] 62 root - INFO - Dataframe created
+[2024-04-14 20:38:27,973] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:38:27] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 20:39:40,553] 62 root - INFO - Dataframe created
+[2024-04-14 20:39:40,581] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:39:40] "POST /predict HTTP/1.1" 200 -
+[2024-04-14 20:40:10,806] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:40:10] "GET / HTTP/1.1" 200 -
+[2024-04-14 20:40:13,923] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:40:13] "GET /predict HTTP/1.1" 200 -
+[2024-04-14 20:40:32,987] 62 root - INFO - Dataframe created
+[2024-04-14 20:40:33,012] 96 werkzeug - INFO - 127.0.0.1 - - [14/Apr/2024 20:40:33] "POST /predict HTTP/1.1" 200 -
